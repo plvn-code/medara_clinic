@@ -1,6 +1,6 @@
 # Status — started 2026-11-20
 
-Local: http://localhost:3026. Local git only — no GitHub / Vercel yet (ask the user; `gh` is not installed, the repo must be created on github.com first).
+Local: http://localhost:3026. GitHub: https://github.com/plvn-code/medara_clinic (main), pushed 2026-11-20. No Vercel yet — ask the user first.
 
 ## Done
 Home: intro, video hero with «dermatoscope» lens + counters, concern explorer (7 concerns → approach, prices «от», before/after), diagnostics band (video), pinned 5-step patient journey, before/after rail (9 real cases, eyes masked by the clinic), price teaser, team with weekly schedule (today highlighted), real review, SOTHYS home care, FAQ, contacts with stylised map, consultation CTA band. Pages: /problemy + 7 concern pages (signs, causes, 4-step treatment, prices, cases, FAQ + FAQPage schema), full price list /ceny (13 sections, search, «Мой план» with total), /rezultaty, /vrachi (+licence), /kontakty, 404. Booking sheet → WhatsApp with composed message incl. the plan. Checked 1440 and 390 px, no horizontal scroll, no console errors.
